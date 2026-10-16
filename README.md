@@ -22,7 +22,7 @@ Submission for the **Happiest Health Digital Twin Challenge 2026** (Unstop).
 |---|---|
 | **Team name** | _[TEAM NAME]_ |
 | **College** | Birla Institute of Technology (BIT), Mesra |
-| **Members** | _[Name 1 — role, email]_<br>_[Name 2 — role, email]_<br>_[Name 3 — role, email]_ |
+| **Members** | _[Utkarsh Pal]_<br>_[Ayush Choubey]_<br>_ |
 | **Repository** | https://github.com/swinter-ctrl/GlucoTwin_BITMesra |
 
 ---
