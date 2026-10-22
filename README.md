@@ -9,7 +9,7 @@ Submission for the **Happiest Health Digital Twin Challenge 2026** (Unstop).
 
 | | |
 |---|---|
-| 🎥 **Demo video** | **[VIDEO LINK — to be added](#)** |
+| 🎥 **Demo video** | **[https://youtu.be/MhGuhhLFm-g](#)** |
 | 🏗️ **Architecture** | [docs/architecture.pdf](docs/architecture.pdf) |
 | 📊 **Presentation** | [docs/presentation.pdf](docs/presentation.pdf) |
 | 📄 **License** | [MIT](LICENSE) |
